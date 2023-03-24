@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    /* the above margin 0 will remove the margin provided by the browser */
+}
+
+header {
+    background-color: #4a4a4a;
+    color: blanchedalmond;
+    text-align: center;
+    padding: 25px 0;
+    margin-bottom: 25px;
+}
+
+main {
+    background-color: #e4e4e4;
+    width: 600px;
+    padding: 25px;
+    border: solid 5px red;
+    margin: 100px auto;
+    /* here the margin 100px auto will provide margin of 100px to top and bottom and to left and right
+    it will take the blank space and provide the margin .margin auto given to left and right is
+     how we center some element */
+}
+
+footer {
+    background-color: #4a4a4a;
+    color: blanchedalmond;
+    text-align: center;
+    padding: 25px 0;
+    margin-top: 25px;
+}
